@@ -1,0 +1,15 @@
+{
+    "name": "com.somedomain.samplepackage.Editor.Tests",
+    "references": [
+        "com.somedomain.samplepackage.Editor",
+        "com.somedomain.samplepackage"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

@@ -1,0 +1,12 @@
+{
+    "name": "com.somedomain.samplepackage.Editor",
+    "references": [
+        "com.somedomain.samplepackage"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
